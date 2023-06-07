@@ -1,6 +1,5 @@
 import React from "react";
 import { Table } from "antd";
-import { uid } from "uid";
 
 const TableComponent = ({ data }) => {
 
