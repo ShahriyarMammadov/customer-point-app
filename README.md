@@ -21,6 +21,13 @@ npm install
 ```
 nodemon server.js or node server.js
 ```
+# To access the site as an admin
+email: adminadmin@gmail.com
+password: sehriyar@2002
+
+# To access the site as an user
+email: siteuser@gmail.com
+password: user1234
 
 ## Used technologies:
 
