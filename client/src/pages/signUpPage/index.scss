@@ -1,0 +1,47 @@
+#signup {
+    background-color: #FEFAE0;
+
+    .signup {
+        max-width: 1200px;
+        margin: 0 auto;
+
+        section {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 50px;
+
+            .signUpForm {
+                width: 40%;
+
+                .headText {
+                    p {
+                        text-align: center;
+                        font-weight: 900;
+                        font-size: 20px;
+                        padding-bottom: 20px;
+                    }
+                }
+
+                form {
+                    padding: 10px;
+                    display: flex;
+                    flex-direction: column;
+                    gap: 20px;
+
+                    input {
+                        padding: 10px;
+                    }
+
+                    button {
+                        padding: 10px 0;
+                        cursor: pointer;
+                        background-color: aquamarine;
+                    }
+                }
+            }
+        }
+
+    }
+
+}

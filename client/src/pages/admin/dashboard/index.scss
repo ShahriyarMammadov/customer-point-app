@@ -1,0 +1,27 @@
+#dashboard {
+    background-color: #FEFAE0;
+
+    .dashboard {
+        max-width: 1200px;
+        margin: 0 auto;
+
+        form {
+            input {
+                padding: 10px 5px;
+            }
+
+            button {
+                padding: 10px;
+                cursor: pointer;
+            }
+        }
+
+        .headText {
+            padding: 20px 0 10px 0;
+        }
+
+        .checkUserPoint {
+            margin-top: 20px;
+        }
+    }
+}
